@@ -1,6 +1,7 @@
 ---
 title: "Selection Bias & Missing Data Challenge"
 subtitle: "Blue Noise Stippling: Creating Art from Data"
+base-url: /stippleChallenge/
 format:
   html: default
 execute:
